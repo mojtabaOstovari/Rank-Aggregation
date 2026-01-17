@@ -53,7 +53,7 @@ All required Python packages are listed in `requirements.txt`.
 
 ## Notes
 
-- The runtime scales quadratically with `n` (Θ(n²)).
+- The runtime is $(\Theta(n^3))$.
 - For accurate results, ensure `n` is sufficiently large to capture the function's behavior.
 
 
